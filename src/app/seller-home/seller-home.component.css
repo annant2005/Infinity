@@ -1,0 +1,29 @@
+table{
+    left: 30%;
+    text-align: center;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    margin-top: 20px;
+
+}
+table td , table th{
+    border: 1px solid white;
+    background-color: white;
+    padding: 10px;
+    min-height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+.product-list h1{
+    text-align: center;
+    
+}

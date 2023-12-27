@@ -1,0 +1,87 @@
+{
+  "Seller": [
+    {
+      "name": "Annant Goyal",
+      "email": "Annant@gmail.com",
+      "password": "Annant@123",
+      "id": 1
+    },
+    {
+      "name": "Dhruva Deswall",
+      "email": "Dhruva@gmail.com",
+      "password": "Dhruva@123",
+      "id": 2
+    },
+    {
+      "name": "Arnav Goswami",
+      "password": "Arnav@123",
+      "email": "Arnav@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Chavvi",
+      "password": "Chavvi@123",
+      "email": "Chavvi@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "password": "abc@123",
+      "email": "abc@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "abc",
+      "password": "abc@123",
+      "email": "abc@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "abc",
+      "password": "abc@123",
+      "email": "abc@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "fdg",
+      "password": "dgfhbdg",
+      "email": "dghbadhnaed",
+      "id": 9
+    },
+    {
+      "name": "Arnav Goswami",
+      "password": "Arnav@123",
+      "email": "Arnav@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "abc",
+      "password": "abc@1234",
+      "email": "abc@gmail.comm",
+      "id": 11
+    },
+    {
+      "name": "aman",
+      "password": "aman@123",
+      "email": "aman@test.com",
+      "id": 12
+    },
+    {
+      "name": "abc",
+      "password": "abc@123",
+      "email": "abc@gmail.com",
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "name": "Realme Narzo 50 pro 5g",
+      "price": "19999",
+      "color": "Blue",
+      "category": "Mobile",
+      "description": "Great Device",
+      "image": "https://cdn1.smartprix.com/rx-i7gEhTxnr-w1200-h1200/7gEhTxnr.jpg",
+      "id": 1
+    }
+  ]
+}
